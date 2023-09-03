@@ -1,7 +1,7 @@
 # Hypercasual-Game
 3D Hypercasual Game series containing two games.
-  -3D Color Switch (Jian) 
-  -Pong (Ryan)
+  <br>-3D Color Switch (Jian)</br>
+  <br>-Pong (Ryan)</br>
 # MainScreen-UI
 <img width="837" alt="MainMenu_UI" src="https://github.com/Jian-bot/Hypercasual-Game/assets/76824957/3824aa78-b1da-4e28-b5be-cbf0275c4374">
   -Direct Users to different game or quit game. 

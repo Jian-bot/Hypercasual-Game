@@ -1,9 +1,11 @@
 # Hypercasual-Game
-**3D Hypercasual Game series containing two games.**
+**3D Hypercasual Game series containing two fun and engaging games.**
 * 3D Color Switch (Jian)
   - Player can hit part of obstacles that has the same color as the ball, otherwise explodes. 
 * Pong (Ryan)
   - Two-player air hockey game.
+* Game Scene build by level:  -> Assets/Scenes
+* Scripts for component control: ->Assets/script
 ## MainScreen UI
 **Direct Users to different game or quit game.**
 
@@ -30,6 +32,6 @@
 <img width="837" alt="Screenshot 2023-09-02 200417" src="https://github.com/Jian-bot/Hypercasual-Game/assets/76824957/780fa56c-48e6-43a4-b639-5ff4686d5302">
 
 **Assets**
-* Models created using Blender and imported into Uity.
+* All models created using Blender and imported into Uity.
 <img width="837" alt="Screenshot 2023-09-02 200445" src="https://github.com/Jian-bot/Hypercasual-Game/assets/76824957/77aaf75a-c303-4cd2-84ce-00ec24dd2b8c">
 <img width="837" alt="Screenshot 2023-09-02 200458" src="https://github.com/Jian-bot/Hypercasual-Game/assets/76824957/c7d2c955-14ba-4367-84bc-cc871fc81f39">
